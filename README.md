@@ -24,6 +24,4 @@ This repository contains the submission materials for Mini Project 3, organized 
 - Final report PDF: `reports/Christianah_Jemiyo_EECS590_MiniProject3_Final.pdf`
 - Instructor questions (Mini Project 3 prompt): `instructor_questions/Mini_3.pdf`
 
-## Notes
 
-- The file `scripts/problem2/CJ_EECS590_MP_Problem2.py` is included as requested.
